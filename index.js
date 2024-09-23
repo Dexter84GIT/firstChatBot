@@ -107,7 +107,7 @@ function initializeRatingMode(ctx) {
 
 function getStartKeyboard() {
   return new Keyboard()
-    .text('HTML')
+    .text('Выпускной тест')
     .text('CSS')
     .row()
     .text('JavaScript')
